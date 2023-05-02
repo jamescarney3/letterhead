@@ -47,8 +47,6 @@ function main() {
     input.style.height = input.scrollHeight;
     statementSpan.innerHTML = e.target.value;
   });
-
-  console.log('onload function run successfully!');
 }
 
 window.onload = main;
