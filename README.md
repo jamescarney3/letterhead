@@ -1,5 +1,5 @@
 # letterhead
-relive the experience of when he was releasing mystifying statements on his own letterhead a couple of times a week
+relive the experience of when he was releasing mystifying statements on his own letterhead a couple of times a week by making your own. purely client-side, write whatever you want.
 
 hosted on GitHub [here](https://jamescarney3.github.io/letterhead/)
 
